@@ -6,3 +6,4 @@
 *.swo
 dist
 MANIFEST
+BoardBuilder.egg-info
